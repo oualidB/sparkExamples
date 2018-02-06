@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c79636-6c51-40e5-a594-64ba7854a042" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/PopularMovie.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$$anonfun$main$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/TotalAmountSpentByCustomer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCount$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCount$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCount$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCount.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetter$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetter$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetter$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetter$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/WordCountBetterSorted.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$$anonfun$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$$anonfun$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/com/sundogsoftware/spark/MinTemperatures.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.item" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/FriendsByAge.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-15">
-              <caret line="35" column="75" lean-forward="true" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+              <caret line="35" column="75" lean-forward="false" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -74,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/TotalAmountSpentByCustomer.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="430">
-              <caret line="19" column="50" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
+              <caret line="19" column="50" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -82,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopularMovie.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PopularMovie.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMovie.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="635">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -136,6 +104,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PopularMoviesNicer.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -163,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/WordCountBetterSorted.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/TotalAmountSpentByCustomer.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PopularMovie.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala" />
       </list>
     </option>
   </component>
@@ -236,8 +215,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\sparkExamples" />
       <recent name="C:\Projects\sparkExamples\src\main\scala" />
+      <recent name="C:\Projects\sparkExamples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PopularMovie">
+  <component name="RunManager" selected="Application.PopularMoviesNicer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -274,9 +253,9 @@
       <module name="sparkexamples" />
       <envs />
     </configuration>
-    <configuration name="TotalAmountSpentByCustomer" type="Application" factoryName="Application" temporary="true">
+    <configuration name="PopularMoviesNicer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TotalAmountSpentByCustomer" />
+      <option name="MAIN_CLASS_NAME" value="PopularMoviesNicer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -288,9 +267,9 @@
       <module name="sparkexamples" />
       <envs />
     </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+    <configuration name="TotalAmountSpentByCustomer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <option name="MAIN_CLASS_NAME" value="TotalAmountSpentByCustomer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -405,19 +384,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WordCount" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WordCountBetter" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PopularMovie" />
+      <item index="0" class="java.lang.String" itemvalue="Application.WordCountBetter" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PopularMovie" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PopularMovie" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WordCountBetter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WordCount" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PopularMovie" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WordCountBetter" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +470,7 @@
       <updated>1517798052089</updated>
       <workItem from="1517798056465" duration="626000" />
       <workItem from="1517798761627" duration="1657000" />
-      <workItem from="1517866191078" duration="9108000" />
+      <workItem from="1517866191078" duration="10250000" />
     </task>
     <task id="LOCAL-00001" summary="[evo] add example : find the minimum temperature by weather station">
       <created>1517867237022</created>
@@ -528,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517926436826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[evo] new example : popular Movie">
+      <created>1517929061156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517929061156</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11391000" />
+    <option name="totallyTimeSpent" value="12533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,7 +580,8 @@
     <MESSAGE value="[evo] add example : word count using regular expressions" />
     <MESSAGE value="[evo] add example : word count sorted by number of repetition" />
     <MESSAGE value="[evo] new example : total amount spent by customer" />
-    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : total amount spent by customer" />
+    <MESSAGE value="[evo] new example : popular Movie" />
+    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : popular Movie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -830,7 +817,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/FriendsByAge.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15">
-          <caret line="35" column="75" lean-forward="true" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+          <caret line="35" column="75" lean-forward="false" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -848,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/TotalAmountSpentByCustomer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="430">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
+          <caret line="19" column="50" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -863,13 +850,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/u.item">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMovie.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="635">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
