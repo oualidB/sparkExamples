@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c79636-6c51-40e5-a594-64ba7854a042" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1800.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/MinTemperatures.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/book.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/WordCount.scala" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,26 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="FriendsByAge.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/FriendsByAge.scala">
+      <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinTemperatures.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/MinTemperatures.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="51" />
-              <folding>
-                <element signature="e#34#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +58,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/FriendsByAge.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/MinTemperatures.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/WordCount.scala" />
       </list>
     </option>
   </component>
@@ -111,6 +97,24 @@
               <item name="sparkExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkExamples" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sparkExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -128,6 +132,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\sparkExamples\src\main\scala" />
       <recent name="C:\Projects\sparkExamples" />
     </key>
   </component>
@@ -143,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinTemperatures">
+  <component name="RunManager" selected="Application.WordCount">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -173,6 +178,20 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.sundogsoftware.spark.MinTemperatures" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sparkexamples" />
+      <envs />
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -258,14 +277,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.FriendsByAge" />
       <item index="1" class="java.lang.String" itemvalue="Application.MinTemperatures" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WordCount" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinTemperatures" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FriendsByAge" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.WordCount" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinTemperatures" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FriendsByAge" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +360,20 @@
       <updated>1517798052089</updated>
       <workItem from="1517798056465" duration="626000" />
       <workItem from="1517798761627" duration="1657000" />
-      <workItem from="1517866191078" duration="986000" />
+      <workItem from="1517866191078" duration="2133000" />
     </task>
+    <task id="LOCAL-00001" summary="[evo] add example : find the minimum temperature by weather station">
+      <created>1517867237022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517867237023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3269000" />
+    <option name="totallyTimeSpent" value="4416000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,7 +405,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35820895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3570537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26432434" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -399,6 +428,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[evo] add example : find the minimum temperature by weather station" />
+    <option name="LAST_COMMIT_MESSAGE" value="[evo] add example : find the minimum temperature by weather station" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,11 +596,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/MinTemperatures.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="51" />
+        <state relative-caret-position="275">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
             <element signature="e#34#59#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/WordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
