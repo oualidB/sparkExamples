@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c79636-6c51-40e5-a594-64ba7854a042" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.item" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Marvel-graph.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Marvel-names.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$main$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$loadMovieNames$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$main$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,89 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="FriendsByAge.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/FriendsByAge.scala">
+      <file leaf-file-name="MostPopularSuperhero.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="35" column="75" lean-forward="false" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TotalAmountSpentByCustomer.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/TotalAmountSpentByCustomer.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="19" column="50" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PopularMovie.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMovie.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="u.data" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/u.data">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6325">
-              <caret line="253" column="7" lean-forward="false" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordCountBetterSorted.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/WordCountBetterSorted.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinTemperatures.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/MinTemperatures.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="21" column="49" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="49" />
-              <folding>
-                <element signature="e#34#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer-orders.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/customer-orders.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="474" column="5" lean-forward="false" selection-start-line="474" selection-start-column="3" selection-end-line="474" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PopularMoviesNicer.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+            <state relative-caret-position="610">
+              <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -142,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/TotalAmountSpentByCustomer.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PopularMovie.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala" />
       </list>
     </option>
   </component>
@@ -231,13 +169,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PopularMoviesNicer">
+  <component name="RunManager" selected="Application.MostPopularSuperhero">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="MostPopularSuperhero" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MostPopularSuperhero" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sparkexamples" />
+      <envs />
     </configuration>
     <configuration name="PopularMovie" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -270,20 +222,6 @@
     <configuration name="TotalAmountSpentByCustomer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="TotalAmountSpentByCustomer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkexamples" />
-      <envs />
-    </configuration>
-    <configuration name="WordCountBetter" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="WordCountBetter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -384,19 +322,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WordCountBetter" />
-      <item index="1" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PopularMovie" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+      <item index="0" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PopularMovie" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PopularMovie" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-        <item index="3" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WordCountBetter" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PopularMovie" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +408,7 @@
       <updated>1517798052089</updated>
       <workItem from="1517798056465" duration="626000" />
       <workItem from="1517798761627" duration="1657000" />
-      <workItem from="1517866191078" duration="10250000" />
+      <workItem from="1517866191078" duration="12966000" />
     </task>
     <task id="LOCAL-00001" summary="[evo] add example : find the minimum temperature by weather station">
       <created>1517867237022</created>
@@ -514,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517929061156</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[evo] new example : make popular Movie example more nicer using broadcast variables">
+      <created>1517930911607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517930911607</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12533000" />
+    <option name="totallyTimeSpent" value="15249000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -581,7 +526,8 @@
     <MESSAGE value="[evo] add example : word count sorted by number of repetition" />
     <MESSAGE value="[evo] new example : total amount spent by customer" />
     <MESSAGE value="[evo] new example : popular Movie" />
-    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : popular Movie" />
+    <MESSAGE value="[evo] new example : make popular Movie example more nicer using broadcast variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : make popular Movie example more nicer using broadcast variables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,7 +610,7 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -870,8 +816,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="49" column="4" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        <state relative-caret-position="450">
+          <caret line="61" column="4" lean-forward="false" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
           <folding />
         </state>
       </provider>
