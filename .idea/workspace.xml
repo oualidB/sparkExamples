@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55c79636-6c51-40e5-a594-64ba7854a042" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Marvel-graph.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Marvel-names.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMovie.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$loadMovieNames$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$$anonfun$main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.10/classes/PopularMoviesNicer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,11 +25,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="MostPopularSuperhero.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MostPopularSuperhero.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="610">
               <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DegreesOfSeparation.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Marvel-graph.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Marvel-graph.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="5513" column="283" lean-forward="false" selection-start-line="5513" selection-start-column="281" selection-end-line="5513" selection-end-column="283" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Marvel-names.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Marvel-names.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,6 +72,10 @@
       <find>68</find>
       <find>5:</find>
       <find>242</find>
+      <find>txt</find>
+      <find>marvel</find>
+      <find>Processing</find>
+      <find>20</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -80,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/PopularMovie.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/PopularMoviesNicer.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/MostPopularSuperhero.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala" />
       </list>
     </option>
   </component>
@@ -169,13 +188,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostPopularSuperhero">
+  <component name="RunManager" selected="Application.DegreesOfSeparation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="DegreesOfSeparation" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="DegreesOfSeparation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sparkexamples" />
+      <envs />
     </configuration>
     <configuration name="MostPopularSuperhero" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -222,20 +255,6 @@
     <configuration name="TotalAmountSpentByCustomer" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="TotalAmountSpentByCustomer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkexamples" />
-      <envs />
-    </configuration>
-    <configuration name="WordCountBetterSorted" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="WordCountBetterSorted" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -322,19 +341,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PopularMovie" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PopularMovie" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DegreesOfSeparation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PopularMovie" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WordCountBetterSorted" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DegreesOfSeparation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MostPopularSuperhero" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PopularMoviesNicer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PopularMovie" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TotalAmountSpentByCustomer" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +427,7 @@
       <updated>1517798052089</updated>
       <workItem from="1517798056465" duration="626000" />
       <workItem from="1517798761627" duration="1657000" />
-      <workItem from="1517866191078" duration="12966000" />
+      <workItem from="1517866191078" duration="15458000" />
     </task>
     <task id="LOCAL-00001" summary="[evo] add example : find the minimum temperature by weather station">
       <created>1517867237022</created>
@@ -459,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517930911607</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[evo] new example : best super heros">
+      <created>1517933629531</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1517933629531</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15249000" />
+    <option name="totallyTimeSpent" value="17741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,7 +553,8 @@
     <MESSAGE value="[evo] new example : total amount spent by customer" />
     <MESSAGE value="[evo] new example : popular Movie" />
     <MESSAGE value="[evo] new example : make popular Movie example more nicer using broadcast variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : make popular Movie example more nicer using broadcast variables" />
+    <MESSAGE value="[evo] new example : best super heros" />
+    <option name="LAST_COMMIT_MESSAGE" value="[evo] new example : best super heros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,7 +696,7 @@
         <state relative-caret-position="800">
           <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -679,7 +706,7 @@
         <state relative-caret-position="1300">
           <caret line="52" column="1" lean-forward="false" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding>
-            <element signature="e#34#59#0" expanded="true" />
+            <element signature="e#34#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -705,16 +732,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="1" selection-end-column="34" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +766,7 @@
         <state relative-caret-position="74">
           <caret line="21" column="49" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="49" />
           <folding>
-            <element signature="e#34#59#0" expanded="true" />
+            <element signature="e#34#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -765,7 +784,7 @@
         <state relative-caret-position="-15">
           <caret line="35" column="75" lean-forward="false" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -783,7 +802,7 @@
         <state relative-caret-position="430">
           <caret line="19" column="50" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="50" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -809,7 +828,7 @@
         <state relative-caret-position="635">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -826,6 +845,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="610">
           <caret line="73" column="36" lean-forward="true" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.10/srcs/spark-core_2.10-2.1.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="1357" column="6" lean-forward="false" selection-start-line="1357" selection-start-column="6" selection-end-line="1357" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marvel-names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marvel-graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="5513" column="283" lean-forward="false" selection-start-line="5513" selection-start-column="281" selection-end-line="5513" selection-end-column="283" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/DegreesOfSeparation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding />
         </state>
       </provider>
